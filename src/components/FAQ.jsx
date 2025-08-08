@@ -8,7 +8,7 @@ const FAQ = () => {
   const faqs = [
     {
       id: "what-is",
-      question: "What is Algorithm Arena?",
+      question: "What is Code Vision?",
       answer:
         "Algorithm Arena is an interactive platform designed for visualizing and learning about various algorithms and data structures through animated visualizations and real-time comparisons.",
     },
@@ -28,7 +28,7 @@ const FAQ = () => {
       id: "for-beginners",
       question: "Is this platform suitable for beginners?",
       answer:
-        "Yes! Algorithm Arena is designed to be educational for all levels. Beginners can learn visually how algorithms work, while advanced users can compare performance characteristics and analyze algorithmic complexity.",
+        "Yes! Code Vision is designed to be educational for all levels. Beginners can learn visually how algorithms work, while advanced users can compare performance characteristics and analyze algorithmic complexity.",
     },
     {
       id: "contributions",
