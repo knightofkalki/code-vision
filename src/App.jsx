@@ -19,7 +19,7 @@ const App = () => {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "WebApplication",
-    name: "AlgoLens",
+    name: "Code Vision",
     description:
       "Interactive platform to visualize and understand algorithms through animations and step-by-step explanations",
     applicationCategory: "EducationalApplication",
@@ -44,7 +44,7 @@ const App = () => {
       <Helmet>
         {/* Basic Meta Tags */}
         <title>
-          AlgoLens - Interactive Algorithm Visualization Platform
+          Code Vision - Interactive Algorithm Visualization Platform
         </title>
         <meta
           name="description"
@@ -58,7 +58,7 @@ const App = () => {
         {/* Open Graph Meta Tags */}
         <meta
           property="og:title"
-          content="AlgoLens - Interactive Visualization"
+          content="Code Vision - Interactive Visualization"
         />
         <meta
           property="og:description"
@@ -73,7 +73,7 @@ const App = () => {
 
         {/* Twitter Card Meta Tags */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="AlgoLens" />
+        <meta name="twitter:title" content="Code Vision" />
         <meta
           name="twitter:description"
           content="Interactive algorithm visualization platform for educational purposes."
